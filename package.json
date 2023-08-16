@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Talha Maqsood",
 	"description": "this is a practice project for the course, i am taking on free coding camp",
+	"keywords": ["practice", "free coding camp", "nodejs", "programming"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
